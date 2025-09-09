@@ -1,0 +1,19 @@
+cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj: \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.3.1/include/stddef.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.3.1/include/stdint.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /home/xiaofang/Applications/STM32_gcc/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Core/Inc/FreeRTOSConfig.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ /home/xiaofang/user/STM32_MYWS/myRCT6_test/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
